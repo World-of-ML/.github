@@ -4,7 +4,7 @@
   <img src = "https://github.com/World-of-ML/.github/blob/main/Blue%20Isometric%20Line%20Digital%20Marketing%20LinkedIn%20Banner%20(2).png">
 </div>
 
-## 🔴 Welcome contributors!!
+## 🔴 Welcome contributors!
 The World of ML is an open source organization which comprises of different open source project repositories from Machine Learning, Deep Learning and Python domain. **ML-Crate**, **Deep Learning Simplified** & **Play With Python** are the three open source project repositories which are part of this organization. Contribuotrs are open to contribute in any of these open source project repositories. Each project repo is helpful to all the ML and DL enthusiasts out there. A huge thanks to all the contributors for their contributions towards these project repositories.
 
 ## Open Source Projects - Open for Contributions🥇:avocado:
