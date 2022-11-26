@@ -1,6 +1,6 @@
 <div align="center">
   <h1>The World of ML:computer:🌎</h1>
-  <p> An Open Source Organization maintained by, <a href="https://github.com/abhisheks008/">Abhishek Sharma</a> </p>
+  <p> An Open Source Organization maintained by, <a href="https://github.com/abhisheks008/">Abhishek Sharma</a>. </p>
   <img src = "https://github.com/World-of-ML/.github/blob/main/Blue%20Isometric%20Line%20Digital%20Marketing%20LinkedIn%20Banner%20(2).png">
 </div>
 
