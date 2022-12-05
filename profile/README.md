@@ -19,18 +19,20 @@ The World of ML is an open source organization which comprises of different open
 
 
 <p align="center">
-  <a href="https://dev.to/badge/hacktoberfest-2020"><img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="60px"></a>
-  <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" height="60px"></a>
-  <img src = "https://github.com/abhisheks008/abhisheks008/blob/main/unnamed.png" height="60px">
- <a href = "eddiehub.org"><img src = "https://avatars.githubusercontent.com/u/66388388?s=200&v=4" height="60px"></a>
- <a href = "https://gwoc.girlscript.tech/"><img src = "https://gwoc.girlscript.tech/assets/favicon.png" height="60px"></a>
- <a href = "https://swoc.scriptindia.org/"><img src = "https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" height="60px"></a>
- <a href = "https://jwoc.tech/"><img src = "https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" height="60px"></a>
- <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
- <a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" height=60px /></a>
- <a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" height=60px /></a>
- <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/abhisheks008/DL-Simplified/blob/main/.github/Assets/logo-1.jpg" height=60px /></a>
- <a href="http://hrsoc.herokuapp.com/"><img src = "https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height=60px /></a>
- <img src = "https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height=60px />
+  <a href="https://dev.to/badge/hacktoberfest-2020"><img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="50px"></a>
+  <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" height="50px"></a>
+  <img src = "https://github.com/abhisheks008/abhisheks008/blob/main/unnamed.png" height="50px">
+ <a href = "eddiehub.org"><img src = "https://avatars.githubusercontent.com/u/66388388?s=200&v=4" height="50px"></a>
+ <a href = "https://gwoc.girlscript.tech/"><img src = "https://gwoc.girlscript.tech/assets/favicon.png" height="50px"></a>
+ <a href = "https://swoc.scriptindia.org/"><img src = "https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" height="50px"></a>
+ <a href = "https://jwoc.tech/"><img src = "https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" height="50px"></a>
+ <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "50 px"></a>
+ <a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" height=50px /></a>
+ <a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" height=50px /></a>
+ <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/abhisheks008/DL-Simplified/blob/main/.github/Assets/logo-1.jpg" height=50px /></a>
+ <a href="http://hrsoc.herokuapp.com/"><img src = "https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height=50px /></a>
+ <img src = "https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height=50px />
+ <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" height=50px/></a>
+ <a href="https://www.codepeak.tech/"><img src="https://github.com/World-of-ML/Play-With-Python/blob/main/Assets/Screenshot%202022-12-02%20190456.png" height=50px/></a>
 </p> 
 
